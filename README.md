@@ -243,4 +243,4 @@ This repository serves as the official landing page for Safari. The software is 
 **Get the most recent version of Safari today!**
 
 ---
-**Last updated:** 2026-10-12 18:55:42 UTC
+**Last updated:** 2026-10-13 01:14:02 UTC
